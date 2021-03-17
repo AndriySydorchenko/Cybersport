@@ -1,0 +1,28 @@
+@import "src/shared/styles/scss/shared";
+
+.steamContainer {
+  width: 270px;
+  height: 80px;
+    @include flex (center, center);
+  //display: flex;
+  //justify-content: center;
+  //align-items: center;
+  background: $primary-color;
+  border-radius: 15px;
+    @include font-source-sans(15px, #8988B6);
+  margin-bottom: 10px;
+}
+
+.steamContainer img {
+  border-radius: 5px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.steamContainer.connected {
+  color: #8B79FF;
+}
+
+.steamContainer.connected img {
+  display: none;
+}
