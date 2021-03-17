@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/github.io/Cybersport/static/css/main.63af9638.chunk.css",
+    "main.js": "/github.io/Cybersport/static/js/main.58817c22.chunk.js",
+    "main.js.map": "/github.io/Cybersport/static/js/main.58817c22.chunk.js.map",
+    "runtime-main.js": "/github.io/Cybersport/static/js/runtime-main.b1612ea4.js",
+    "runtime-main.js.map": "/github.io/Cybersport/static/js/runtime-main.b1612ea4.js.map",
+    "static/js/2.f7610a34.chunk.js": "/github.io/Cybersport/static/js/2.f7610a34.chunk.js",
+    "static/js/2.f7610a34.chunk.js.map": "/github.io/Cybersport/static/js/2.f7610a34.chunk.js.map",
+    "static/js/3.02efa4fb.chunk.js": "/github.io/Cybersport/static/js/3.02efa4fb.chunk.js",
+    "static/js/3.02efa4fb.chunk.js.map": "/github.io/Cybersport/static/js/3.02efa4fb.chunk.js.map",
+    "index.html": "/github.io/Cybersport/index.html",
+    "precache-manifest.5329fd886a486517b16614311bba97d5.js": "/github.io/Cybersport/precache-manifest.5329fd886a486517b16614311bba97d5.js",
+    "service-worker.js": "/github.io/Cybersport/service-worker.js",
+    "static/css/main.63af9638.chunk.css.map": "/github.io/Cybersport/static/css/main.63af9638.chunk.css.map",
+    "static/js/2.f7610a34.chunk.js.LICENSE.txt": "/github.io/Cybersport/static/js/2.f7610a34.chunk.js.LICENSE.txt",
+    "static/media/PlayerAvatar.png": "/github.io/Cybersport/static/media/PlayerAvatar.64c9f467.png",
+    "static/media/bg_banner1.png": "/github.io/Cybersport/static/media/bg_banner1.205c5d7f.png",
+    "static/media/bg_banner2.png": "/github.io/Cybersport/static/media/bg_banner2.4d45eb1d.png",
+    "static/media/charge.6f0ecb1c.svg": "/github.io/Cybersport/static/media/charge.6f0ecb1c.svg",
+    "static/media/defaultAvatar.png": "/github.io/Cybersport/static/media/defaultAvatar.64c9f467.png",
+    "static/media/dollar.b1d74d0b.svg": "/github.io/Cybersport/static/media/dollar.b1d74d0b.svg",
+    "static/media/lightening.17d6b08d.svg": "/github.io/Cybersport/static/media/lightening.17d6b08d.svg",
+    "static/media/player_avatar_normal1.png": "/github.io/Cybersport/static/media/player_avatar_normal1.62ba74b1.png",
+    "static/media/subpartner_2.png": "/github.io/Cybersport/static/media/subpartner_2.aa2b8b1c.png",
+    "static/media/subpartner_3.png": "/github.io/Cybersport/static/media/subpartner_3.b1ea7259.png",
+    "static/media/tournament-avatar.jpg": "/github.io/Cybersport/static/media/tournament-avatar.75042f2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1612ea4.js",
+    "static/js/2.f7610a34.chunk.js",
+    "static/css/main.63af9638.chunk.css",
+    "static/js/main.58817c22.chunk.js"
+  ]
+}
