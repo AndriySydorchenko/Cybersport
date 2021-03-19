@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc05d9c1b9c9288030030915661020a5",
+    "revision": "ba9859f0212d6cbde413df4e7887da8d",
     "url": "/Cybersport/index.html"
   },
   {
-    "revision": "4963953209e1b98779c7",
+    "revision": "414fe4ea67a18d52c03a",
     "url": "/Cybersport/static/css/main.63af9638.chunk.css"
   },
   {
-    "revision": "f6f89ed778ab70b3f172",
-    "url": "/Cybersport/static/js/2.f7610a34.chunk.js"
+    "revision": "a3bf507f1b51852b7008",
+    "url": "/Cybersport/static/js/2.f29bf204.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Cybersport/static/js/2.f7610a34.chunk.js.LICENSE.txt"
+    "url": "/Cybersport/static/js/2.f29bf204.chunk.js.LICENSE.txt"
   },
   {
     "revision": "c7d15d995d76fdf7ae14",
     "url": "/Cybersport/static/js/3.02efa4fb.chunk.js"
   },
   {
-    "revision": "4963953209e1b98779c7",
-    "url": "/Cybersport/static/js/main.7cdb1937.chunk.js"
+    "revision": "414fe4ea67a18d52c03a",
+    "url": "/Cybersport/static/js/main.3cd9ac3c.chunk.js"
   },
   {
     "revision": "dd0baaaab0e1e39a208d",
